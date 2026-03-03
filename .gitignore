@@ -1,0 +1,16 @@
+# Environments
+focusshield_env/
+venv/
+env/
+
+# Mac Junk
+.DS_Store
+
+# PyCharm/IDE Junk
+.idea/
+__pycache__/
+
+# Raw Data (Do not upload gigabytes of .npy files!)
+Shield_Data/
+Shield_Data_V2/
+*.zip
